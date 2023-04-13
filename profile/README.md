@@ -1,1 +1,1 @@
-# .github
+# ACID - Aero Club IIT Delhi
